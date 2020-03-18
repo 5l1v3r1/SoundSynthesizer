@@ -1,4 +1,4 @@
-# SoundSynthesizer
+# SoundSynthetiser
 
     Arduino Pro mini is generating tones. The frequency of tone can be modify by trimer.
 
